@@ -8,7 +8,7 @@
 
 - [Active Directory Home Lab Project with Splunk, Kali Linux and Atomic Red Team](https://github.com/asuoye/Active_Directory_Lab)
 
-- <b>Simulating a Brute Force Attack and Investigating with Microsoft Sentinel</b>
+- [Simulating a Brute Force Attack and Investigating with Microsoft Sentinel](https://github.com/asuoye/Simulating-a-Brute-Force-attack-and-investigating-with-Microsoft-Sentinel)
 
 - <b>Vulnerability Management Project</b>
 
