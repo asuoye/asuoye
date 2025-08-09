@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b> Building a Cloud-Based Home SOC using Azure Honeypot Deployment, Log Analysis and Real Time Attack Visualisation </b>
+- [Building a Cloud-Based Home SOC using Azure Honeypot Deployment, Log Analysis and Real Time Attack Visualisation](https://github.com/asuoye/Azure-Cloud-SOC-Honeypot-Log-Analytics-Real-Time-Attack-Monitoring)
 
 - <b>Setting up and Monitoring Flow with Azure DRC, Log Analytics, Dashboards, Queries and Trends for Cloud Security</b>
 
