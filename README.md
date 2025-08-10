@@ -10,7 +10,7 @@
 
 - [Simulating a Brute Force Attack and Investigating with Microsoft Sentinel](https://github.com/asuoye/Simulating-a-Brute-Force-attack-and-investigating-with-Microsoft-Sentinel)
 
-- <b>Vulnerability Management Project</b>
+- [Vulnerability Management Project](https://github.com/asuoye/Vulnerability-Management-Project)
 
 - <b>Capture and Store Azure Logs in a Storage Account</b>
 
