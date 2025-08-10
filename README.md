@@ -14,7 +14,6 @@
 
 - [Capture and Store Azure Logs in a Storage Account](https://github.com/asuoye/Capture-and-Storing-Azure-Logs-in-a-Secure-Storage-Account)
 
-- <b>Virtual Cyber Security Home Lab</b>
 
 - [How to Set Up a Basic Home Lab Running Active Directory (Oracle Virtual Box) and Add Users with PowerShell](https://github.com/asuoye/Virtual_Cybersecurity_HomeLab)
 
