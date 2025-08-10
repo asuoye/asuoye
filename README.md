@@ -12,7 +12,7 @@
 
 - [Vulnerability Management Project](https://github.com/asuoye/Vulnerability-Management-Project)
 
-- <b>Capture and Store Azure Logs in a Storage Account</b>
+- [Capture and Store Azure Logs in a Storage Account](https://github.com/asuoye/Capture-and-Storing-Azure-Logs-in-a-Secure-Storage-Account)
 
 - <b>Virtual Cyber Security Home Lab</b>
 
