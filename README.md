@@ -61,15 +61,8 @@
 
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/asuoyeabraham/))  
-- 🌐 [Portfolio](https://yourportfolio.com)  
-- ✉️ youremail@example.com  
-
----
-
-> _"Security is not a product, it's a process."_ — Bruce Schneier  
-
-
-
+- 🌐 [Portfolio](https://github.com/asuoye)
+- ✉️ asuoyea@gmail.com  
 
 
 
