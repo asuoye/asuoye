@@ -60,7 +60,7 @@
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/asuoyeabraham/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/asuoyeabraham/) 
 - 🌐 [Portfolio](https://github.com/asuoye)
 - ✉️ asuoyea@gmail.com  
 
