@@ -62,9 +62,9 @@ With hands-on expertise in **AWS**, **Azure**, **Kubernetes**, **Terraform**, an
 ---
 
 ## 🌐 Let’s Connect  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-📧 **youremail@example.com**  
-📂 [GitHub Portfolio](https://github.com/your-username)  
+💼 [LinkedIn](https://linkedin.com/in/asuoyeabraham)  
+📧 **asuoyea@gmail.com**  
+📂 [GitHub Portfolio](https://github.com/asuoye)  
 
 ---
 
