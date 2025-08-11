@@ -1,63 +1,75 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Asuoye Abraham</h1>
-<h3 align="center">🚀 Cloud Security & DevOps Engineer | AWS | Azure | Kubernetes | Terraform</h3>
+# 👋 Hi, I'm Asuoye Abraham  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/asuoyeabraham"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:asuoyea@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-</p>
+🚀 **Cloud Security & DevOps Engineer** | Securing Cloud Infrastructure | Automating Everything | Driving Reliability  
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat&logo=github)](https://github.com/your-username)  
 
 ---
 
-## 💡 About Me  
-- 🔒 **Cloud Security Specialist** — Designing secure, compliant AWS & Azure architectures  
-- ⚙️ **DevOps Engineer** — Automating deployments, monitoring, and infrastructure as code  
-- 🛡️ Implementing **threat detection & vulnerability management** systems  
-- 📊 Proactive in **log analytics**, incident response, and system hardening  
+## 🛡️ About Me  
+I’m a **Cloud Security and DevOps Engineer** who blends **automation, security best practices, and scalable architectures** to protect and optimize cloud systems.  
+
+With hands-on expertise in **AWS**, **Azure**, **Kubernetes**, **Terraform**, and modern security tools, I help organizations build **resilient, secure, and high-performing systems**.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔧 Skills & Technologies  
 
-**Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### ☁ Cloud & Infrastructure  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
 
-**Containerization & Orchestration**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🛠 DevOps & Automation  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)  
 
-**Monitoring & Security**  
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-017CFF?style=for-the-badge&logo=wazuh&logoColor=white)
+### 🔍 Security & Monitoring  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)  
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)  
+![Wazuh](https://img.shields.io/badge/Wazuh-005C84?style=flat&logo=wazuh&logoColor=white)  
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=flat)  
 
-**Web & Server**  
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Infrastructure as Code & Scripting**  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Programming & Scripting  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ---
 
-## 📂 Featured Projects  
+## 📌 Featured Projects  
 
-🔹 **[Cloud-Based Home SOC in Azure](#)** — Honeypot in Azure + Log Analytics & Sentinel for attack monitoring.  
-🔹 **[AWS EKS Deployment with Terraform](#)** — Automated production-ready Kubernetes cluster.  
-🔹 **[Vulnerability Management with Nessus & Wazuh](#)** — Security scanning, remediation, and automated patching.  
+- **🔐 Cloud-Based Home SOC on Azure** – Honeypot deployment, real-time log analytics, dashboards, and attack visualization.  
+- **⚡ Vulnerability Management** – Automated vulnerability scans and remediation using Nessus & sandbox environments.  
+- **📊 Full Cloud Monitoring Pipeline** – Azure DCR, Log Analytics, and custom dashboards for real-time security visibility.  
+- **🛡 AWS Secure Infrastructure** – Configured GuardDuty, Security Hub, IAM policies, and automated compliance checks.  
+
+---
+
+## 📚 Currently Learning  
+- Advanced **Kubernetes Security**  
+- Cloud **Incident Response Playbooks**  
+- **Serverless Security** in AWS and Azure  
 
 ---
 
 ## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asuoye&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asuoye&layout=compact&theme=radical" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asuoye&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 
 ---
+
+## 🌐 Let’s Connect  
+💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+📧 **youremail@example.com**  
+📂 [GitHub Portfolio](https://github.com/your-username)  
+
+---
+
+> ⚡ _"In the cloud, speed is power—but security is everything."_
+
 
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/asuoyeabraham/) 
