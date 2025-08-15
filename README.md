@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asuoye Abraham  
 
-🚀 **Cloud Security & DevOps Engineer** | **Securing Cloud Infrastructure** | **Automating Everything** | **Driving Reliability**  
+🚀 **Cloud Security & DevOps Engineer** | **Securing Cloud Infrastructure** | **Automating Everything** | **Cyber Security**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
@@ -79,6 +79,8 @@ With hands-on expertise in **AWS**, **Azure**, **Kubernetes**, **Terraform**, an
 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
+
+- File Integrity Monitoring
 
 - [Building a Cloud-Based Home SOC using Azure Honeypot Deployment, Log Analysis and Real Time Attack Visualisation](https://github.com/asuoye/Azure-Cloud-SOC-Honeypot-Log-Analytics-Real-Time-Attack-Monitoring)
 
