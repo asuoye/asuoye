@@ -15,6 +15,29 @@ With hands-on expertise in **AWS**, **Azure**, **Kubernetes**, **Terraform**, an
 
 ---
 
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- [File Integrity Monitoring](https://github.com/asuoye/File-Integrity-Monitoring-Project)
+
+- [Building a Cloud-Based Home SOC using Azure Honeypot Deployment, Log Analysis and Real Time Attack Visualisation](https://github.com/asuoye/Azure-Cloud-SOC-Honeypot-Log-Analytics-Real-Time-Attack-Monitoring)
+
+- [Setting up and Monitoring Flow with Azure DRC, Log Analytics, Dashboards, Queries and Trends for Cloud Security](https://github.com/asuoye/Azure-Cloud-SOC-DCR-Log-Analytics-Real-Time-Security-Dashboards-.)
+
+- [Active Directory Home Lab Project with Splunk, Kali Linux and Atomic Red Team](https://github.com/asuoye/Active_Directory_Lab)
+
+- [Simulating a Brute Force Attack and Investigating with Microsoft Sentinel](https://github.com/asuoye/Simulating-a-Brute-Force-attack-and-investigating-with-Microsoft-Sentinel)
+
+- [Vulnerability Management Project](https://github.com/asuoye/Vulnerability-Management-Project)
+
+- [Capture and Store Azure Logs in a Storage Account](https://github.com/asuoye/Capture-and-Storing-Azure-Logs-in-a-Secure-Storage-Account)
+
+
+- [How to Set Up a Basic Home Lab Running Active Directory (Oracle Virtual Box) and Add Users with PowerShell](https://github.com/asuoye/Virtual_Cybersecurity_HomeLab)
+
+
+
+
+---
 ## 🔧 Skills & Technologies  
 
 ### ☁ Cloud & Infrastructure  
@@ -71,28 +94,6 @@ With hands-on expertise in **AWS**, **Azure**, **Kubernetes**, **Terraform**, an
 - ✉️ asuoyea@gmail.com  
 
 
-
-<h2>👨‍💻 Cyber Security Projects:</h2>
-
-- [File Integrity Monitoring](https://github.com/asuoye/File-Integrity-Monitoring-Project)
-
-- [Building a Cloud-Based Home SOC using Azure Honeypot Deployment, Log Analysis and Real Time Attack Visualisation](https://github.com/asuoye/Azure-Cloud-SOC-Honeypot-Log-Analytics-Real-Time-Attack-Monitoring)
-
-- [Setting up and Monitoring Flow with Azure DRC, Log Analytics, Dashboards, Queries and Trends for Cloud Security](https://github.com/asuoye/Azure-Cloud-SOC-DCR-Log-Analytics-Real-Time-Security-Dashboards-.)
-
-- [Active Directory Home Lab Project with Splunk, Kali Linux and Atomic Red Team](https://github.com/asuoye/Active_Directory_Lab)
-
-- [Simulating a Brute Force Attack and Investigating with Microsoft Sentinel](https://github.com/asuoye/Simulating-a-Brute-Force-attack-and-investigating-with-Microsoft-Sentinel)
-
-- [Vulnerability Management Project](https://github.com/asuoye/Vulnerability-Management-Project)
-
-- [Capture and Store Azure Logs in a Storage Account](https://github.com/asuoye/Capture-and-Storing-Azure-Logs-in-a-Secure-Storage-Account)
-
-
-- [How to Set Up a Basic Home Lab Running Active Directory (Oracle Virtual Box) and Add Users with PowerShell](https://github.com/asuoye/Virtual_Cybersecurity_HomeLab)
-
-
-<h2>👨‍💻 Certifications:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
