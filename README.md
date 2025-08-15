@@ -59,12 +59,6 @@ With hands-on expertise in **AWS**, **Azure**, **Kubernetes**, **Terraform**, an
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asuoye&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asuoye&layout=compact&theme=tokyonight)  
 
----
-
-## 🌐 Let’s Connect  
-💼 [LinkedIn](https://linkedin.com/in/asuoyeabraham)  
-📧 **asuoyea@gmail.com**  
-📂 [GitHub Portfolio](https://github.com/asuoye)  
 
 ---
 
