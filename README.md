@@ -80,7 +80,7 @@ With hands-on expertise in **AWS**, **Azure**, **Kubernetes**, **Terraform**, an
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- File Integrity Monitoring
+- [File Integrity Monitoring](https://github.com/asuoye/File-Integrity-Monitoring-Project)
 
 - [Building a Cloud-Based Home SOC using Azure Honeypot Deployment, Log Analysis and Real Time Attack Visualisation](https://github.com/asuoye/Azure-Cloud-SOC-Honeypot-Log-Analytics-Real-Time-Attack-Monitoring)
 
