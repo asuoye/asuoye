@@ -15,7 +15,9 @@ With hands-on expertise in **AWS**, **Azure**, **Kubernetes**, **Terraform**, an
 
 ---
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2> 
+
+- [Server-Deployment-With-Ansible](https://github.com/asuoye/Server-Deployment-With-Ansible))
 
 - [File Integrity Monitoring](https://github.com/asuoye/File-Integrity-Monitoring-Project)
 
